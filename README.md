@@ -40,7 +40,6 @@
 <p><a href="https://www.buymeacoffee.com/FUNDEV"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FUNDEV" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fundev2&show_icons=true&locale=en&layout=compact" alt="fundev2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fundev2&show_icons=true&locale=en" alt="fundev2" /></p>
 
