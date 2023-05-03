@@ -2,11 +2,11 @@
 <h3 align="center">A software company that strives for customer satisfaction and workmanship</h3>
 <p align="center"> <img src="https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/337263422_2211858229006901_2117359216431643077_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=cIRY1edWRZgAX_zOvCj&_nc_ht=scontent.fcai19-8.fna&oh=00_AfDuK-E_4amteOFILAAMMDcDVadKSp-sSyj1CdbR111VWA&oe=6457446D" alt="fundev2"width="200px" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fundev2&label=Profile%20views&color=0e75b6&style=flat" alt="fundev2" /> </p>
+<p align="lift"> <img src="https://komarev.com/ghpvc/?username=fundev2&label=Profile%20views&color=0e75b6&style=flat" alt="fundev2" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fundev2" alt="fundev2" /></a> </p>
+<p align="lift"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fundev2" alt="fundev2" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/@fundev15" target="blank"><img src="https://img.shields.io/twitter/follow/@fundev15?logo=twitter&style=for-the-badge" alt="@fundev15" /></a> </p>
+<p align="lift"> <a href="https://twitter.com/@fundev15" target="blank"><img src="https://img.shields.io/twitter/follow/@fundev15?logo=twitter&style=for-the-badge" alt="@fundev15" /></a> </p>
 
 - 🔭 I’m currently working on [jaber](https://jaber.webrouk.com/)
 
